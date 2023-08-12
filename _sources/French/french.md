@@ -1,4 +1,4 @@
-# english learning
+# french learning
  
 ```{warning}
 This site is still under construction

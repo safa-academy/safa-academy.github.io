@@ -1,4 +1,4 @@
-# english for adult
+# french for adult
  
 ```{warning}
 This site is still under construction
