@@ -53,6 +53,6 @@
 <img src="./photo/lets-go/starter/4-1.PNG" alt="0" style="height: auto; width:auto;"/>
 
 
-```python
-
+```{warning}
+الدرس05... الدرس29 مخصص للمسجلين باكاديمية صافا للتعليم
 ```
