@@ -1,11 +1,11 @@
-# english learning الإنجليزية 
- 
-```{warning}
-هذه الصفحة في طور الإنجاز
+# Level 2 المستوى 
 
-This page is still under construction
+```{warning}
+دروس المستوى الثاني مخصصة للمسجلين باكاديمية صافا للتعليم
+
+Second level lessons are dedicated for those registered with Safa Academy for Education
 ```
  
 
  
-```{tableofcontents}```
+
