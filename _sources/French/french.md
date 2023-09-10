@@ -1,7 +1,10 @@
-# french learning
+# french learning الفرنسية
  
 ```{warning}
-This site is still under construction
+هذه الصفحة في طور الإنجاز
+
+Cette page est en construction
+
 ```
  
 
