@@ -1,7 +1,7 @@
 # english for kids
  
-```{warning}
-This site is still under construction
+```{Note}
+بعض الدروس المقدمة بأكاديمية صافا لتعلم اللغة الإنجليزية للصغار
 ```
  
 

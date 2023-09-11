@@ -47,9 +47,9 @@
 
 
 
-<img src="./photos/7.png"/>
+<img src="./photos/7.PNG"/>
 
-<img src="./photos/9.png"/>
+<img src="./photos/9.PNG"/>
 
 
 <p style="text-align:right; font-size:150%">
@@ -62,7 +62,7 @@
 
 <p style="text-align:center; font-size:150%">  
 <div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-  التوجيهات: اعد الأشياء. قل الرقم. اتبع الخط واكتب الرقم
+  التوجيهات: أعد الأشياء. أقرأ  الرقم. أتبع الخط وأكتب الرقم
 </div>
 </p> 
 
@@ -88,7 +88,7 @@
 
 <p style="text-align:center; font-size:150%">   
 <div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-   عد الأشياء. قل الرقم. اكتب الرقم
+   أعد الأشياء. أقرأ الرقم. أكتب الرقم
 </div>
 </p> 
 
@@ -98,7 +98,7 @@
 
 <p style="text-align:center; font-size:150%"> 
 <div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-     عد الأشياء في الصورة. قل الرقم. اكتب الرقم
+     أعد الأشياء في الصورة. أقرأ الرقم. أكتب الرقم
 </div>
 </p> 
 

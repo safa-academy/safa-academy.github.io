@@ -1,7 +1,7 @@
 # english for adult
  
-```{warning}
-This site is still under construction
+```{Note}
+بعض الدروس المقدمة بأكاديمية صافا لتعلم اللغة الإنجليزية للكبار
 ```
  
 
