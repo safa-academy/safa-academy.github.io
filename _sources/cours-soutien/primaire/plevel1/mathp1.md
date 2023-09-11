@@ -1,6 +1,7 @@
 # رياضيات 
 <img src="./photos/46195-ai.png"/>
-
+<br>
+<br>
 <p style="text-align:right; font-size:150%">
 <div style="background-color:rgba(255,0,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
   الدرس 1.1 : أظهر وأعد الأرقام 1 و2 
@@ -11,7 +12,11 @@
 
 <br>
 
-<p style="text-align:center; font-size:150%">     اعد الأشياء. اُلوِّن الصناديق لأظهِرعددها </p> 
+<p style="text-align:center; font-size:150%"> 
+<div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
+    اعد الأشياء. اُلوِّن الصناديق لأظهِرعددها 
+ </div>   
+</p> 
   
 
 <br>
@@ -20,21 +25,25 @@
 
 <br>
 
-<img src="./photos/1.png"/>
+<img src="./photos/1.PNG"/>
 
-<img src="./photos/2.png"/>
+<img src="./photos/2.PNG"/>
 
-<img src="./photos/3.png"/>
+<img src="./photos/3.PNG"/>
 
-<img src="./photos/4.png"/>
+<img src="./photos/4.PNG"/>
 
-<img src="./photos/5.png"/>
+<img src="./photos/5.PNG"/>
 
-<img src="./photos/6.png"/>
+<img src="./photos/6.PNG"/>
 
-<img src="./photos/8.png"/>
+<img src="./photos/8.PNG"/>
 
-<p style="text-align:center; font-size:150%">   أعد الأشياء في الصورة. اُلوِّن الصناديق لأظهِر عددها </p> 
+<p style="text-align:center; font-size:150%">  
+<div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
+ أعد الأشياء في الصورة. اُلوِّن الصناديق لأظهِر عددها 
+ </div>
+ </p> 
 
 
 
@@ -42,13 +51,19 @@
 
 <img src="./photos/9.png"/>
 
-#
-<p style="text-align:right; font-size:150%">  الدرس 2.1 : أفهم وأكتب الأرقام 1 و2 
+
+<p style="text-align:right; font-size:150%">
+<div style="background-color:rgba(255,0,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">  
+الدرس 2.1 : أفهم وأكتب الأرقام 1 و2 
+</div>
  </p>
 
 <br>
 
-<p style="text-align:center; font-size:150%">     التوجيهات: اعد الأشياء. قل الرقم. اتبع الخط واكتب الرقم
+<p style="text-align:center; font-size:150%">  
+<div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
+  التوجيهات: اعد الأشياء. قل الرقم. اتبع الخط واكتب الرقم
+</div>
 </p> 
 
 
@@ -71,14 +86,20 @@
 </p> 
 
 
-<p style="text-align:center; font-size:150%">      عد الأشياء. قل الرقم. اكتب الرقم
+<p style="text-align:center; font-size:150%">   
+<div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
+   عد الأشياء. قل الرقم. اكتب الرقم
+</div>
 </p> 
 
 <br>
 
 <img src="./photos/1/cours1.2.5.png"/>
 
-<p style="text-align:center; font-size:150%">      عد الأشياء في الصورة. قل الرقم. اكتب الرقم
+<p style="text-align:center; font-size:150%"> 
+<div style="background-color:rgba(255,0,255,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
+     عد الأشياء في الصورة. قل الرقم. اكتب الرقم
+</div>
 </p> 
 
 

@@ -1,9 +1,8 @@
 # Level 1 السنة 
 
-```{warning}
-دروس المستوى الثاني مخصصة للمسجلين باكاديمية صافا للتعليم
+```{Note}
+بعض دروس الرياضيات للسنة الأولى إبتدائي
 
-Second level lessons are dedicated for those registered with Safa Academy for Education
 ```
  
 
