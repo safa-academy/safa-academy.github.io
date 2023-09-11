@@ -1,7 +1,7 @@
 # secondaire
  
-```{warning}
-This site is still under construction
+```{info}
+بعض دروس التعليم الثانوي
 ```
  
 

@@ -1,9 +1,8 @@
 # english learning الإنجليزية 
  
-```{warning}
-هذه الصفحة في طور الإنجاز
+```{info}
+هذه الصفحة تحتوي على بعض الدروس المقدمة بالأكاديمية
 
-This page is still under construction
 ```
  
 

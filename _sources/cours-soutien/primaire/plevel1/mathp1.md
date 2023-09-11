@@ -1,14 +1,16 @@
 # رياضيات 
 <img src="./photos/46195-ai.png"/>
 
-#
-<p style="text-align:right; font-size:200%">  الدرس 1.1 : أظهر وأعد الأرقام 1 و2 </p> 
+<div style="background-color:rgba(255,0,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
+<p style="text-align:right; font-size:150%">  الدرس 1.1 : أظهر وأعد الأرقام 1 و2 </p>
+</div>
+ 
 
 
 
 <br>
 
-<p style="text-align:center; font-size:200%">     اعد الأشياء. اُلوِّن الصناديق لأظهِرعددها </p> 
+<p style="text-align:center; font-size:150%">     اعد الأشياء. اُلوِّن الصناديق لأظهِرعددها </p> 
   
 
 <br>
@@ -31,7 +33,7 @@
 
 <img src="./photos/8.png"/>
 
-<p style="text-align:center; font-size:200%">   أعد الأشياء في الصورة. اُلوِّن الصناديق لأظهِر عددها </p> 
+<p style="text-align:center; font-size:150%">   أعد الأشياء في الصورة. اُلوِّن الصناديق لأظهِر عددها </p> 
 
 
 
@@ -40,12 +42,12 @@
 <img src="./photos/9.png"/>
 
 #
-<p style="text-align:right; font-size:200%">  الدرس 2.1 : أفهم وأكتب الأرقام 1 و2 
+<p style="text-align:right; font-size:150%">  الدرس 2.1 : أفهم وأكتب الأرقام 1 و2 
  </p>
 
 <br>
 
-<p style="text-align:center; font-size:200%">     التوجيهات: اعد الأشياء. قل الرقم. اتبع الخط واكتب الرقم
+<p style="text-align:center; font-size:150%">     التوجيهات: اعد الأشياء. قل الرقم. اتبع الخط واكتب الرقم
 </p> 
 
 
@@ -68,14 +70,14 @@
 </p> 
 
 
-<p style="text-align:center; font-size:200%">      عد الأشياء. قل الرقم. اكتب الرقم
+<p style="text-align:center; font-size:150%">      عد الأشياء. قل الرقم. اكتب الرقم
 </p> 
 
 <br>
 
 <img src="./photos/1/cours1.2.5.png"/>
 
-<p style="text-align:center; font-size:200%">      عد الأشياء في الصورة. قل الرقم. اكتب الرقم
+<p style="text-align:center; font-size:150%">      عد الأشياء في الصورة. قل الرقم. اكتب الرقم
 </p> 
 
 
