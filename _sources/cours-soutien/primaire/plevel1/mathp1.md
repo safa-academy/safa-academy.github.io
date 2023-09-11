@@ -1,10 +1,11 @@
 # رياضيات 
 <img src="./photos/46195-ai.png"/>
 
+<p style="text-align:right; font-size:150%">
 <div style="background-color:rgba(255,0,0,0.3); text-align:center; vertical-align: middle; padding:10px 0;">
-<p style="text-align:right; font-size:150%">  الدرس 1.1 : أظهر وأعد الأرقام 1 و2 </p>
+  الدرس 1.1 : أظهر وأعد الأرقام 1 و2 
 </div>
- 
+ </p>
 
 
 
